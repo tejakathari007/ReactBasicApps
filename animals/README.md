@@ -8,4 +8,4 @@ This App will add different random animals and have an option to give heart to s
 ⏺️Component Reusability
 
 
-![image](https://user-images.githubusercontent.com/40354618/230786143-ebdafb14-d230-41f1-a448-47d81a699b9d.png)
+![image](https://user-images.githubusercontent.com/40354618/230786224-15b816cb-c916-4ce4-9db7-8952692a23b2.png)
